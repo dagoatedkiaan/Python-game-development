@@ -1,1 +1,1 @@
-Hi, this is my first lesson in advanced Python for JetLearn
+Hi, this is my first repostiory in advanced Python for JetLearn
